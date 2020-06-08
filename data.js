@@ -1,1 +1,1 @@
-< h1 > Welcome!It `s team #3</h1>
+< h1 > Welcome!Its team #3</h1>
